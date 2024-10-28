@@ -1,0 +1,1 @@
+# Alzheimer-s-Detection-and-Multi-Class-Classification-using-Cnn-and-pretrained-model
